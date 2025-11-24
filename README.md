@@ -3,15 +3,6 @@
 A beautiful, heartfelt, and aesthetic mini-webpage designed to send someone a sweet **coffee date proposal**. Simple, responsive, animated, and extremely easy to customize.
 
 
-## 🌸 Preview
-
-*Add your screenshot or GIF here*
-
-```
-![Preview](./assets/preview.png)
-```
-
-
 ## ✨ Features
 
 * Cute & minimal UI
@@ -107,17 +98,6 @@ Replace the file in `assets/` and update the path:
 
 Just drag and drop the folder.
 No build step needed.
-
-
-## 🤝 Contributing
-
-Feel free to fork this repo and enhance it.
-Pull requests are always welcome!
-
-
-## 📄 License
-
-Licensed under the **MIT License**.
 
 
 ## 👤 Author
